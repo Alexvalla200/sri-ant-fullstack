@@ -6,7 +6,7 @@ Aplicación web full-stack que permite consultar información tributaria de **Pe
 
 ## Arquitectura C4 (IcePanel)
 
-- **Modelo C4 en IcePanel:** `[PEGA_AQUI_EL_ENLACE_A_TU_LANDSCAPE_DE_ICEPANEL]`
+- **Modelo C4 en IcePanel:** https://s.icepanel.io/DS5Qhjsycvv5jt/NIuk
 
 ### Niveles modelados
 1. **Contexto (Nivel 1):** Interacción del **Ciudadano** con el **Sistema de Consulta Ciudadana** y las integraciones externas (**API REST SRI** y **Portal Web ANT**).
